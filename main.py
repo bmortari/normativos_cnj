@@ -317,6 +317,7 @@ def run_scraper(model: SentenceTransformer, conn, table_name: str, chunking_func
         data_for_db = []
         for i, chunk in enumerate(all_chunks_from_page):
             metadata_to_insert = chunk['metadata']
+            metadata_to_insert.pop("texto", None)
             metadata_to_insert.update({
                 "document_id": chunk.get("document_id"),
                 "autor": chunk.get("autor"),
