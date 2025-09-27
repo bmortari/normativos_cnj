@@ -1,0 +1,79 @@
+{
+  "name": "silver_set_normativos_cnj",
+  "nodes": [
+    {
+      "parameters": {
+        "httpMethod": "POST",
+        "path": "345e055f-c1f5-495f-aa45-db9a30e4d5d5",
+        "responseMode": "lastNode",
+        "options": {}
+      },
+      "type": "n8n-nodes-base.webhook",
+      "typeVersion": 2.1,
+      "position": [
+        -464,
+        -160
+      ],
+      "id": "36f65db1-4d69-4312-81e5-5d57f78385ae",
+      "name": "Webhook",
+      "webhookId": "345e055f-c1f5-495f-aa45-db9a30e4d5d5"
+    },
+    {
+      "parameters": {
+        "modelId": {
+          "__rl": true,
+          "value": "models/gemini-2.5-pro",
+          "mode": "list",
+          "cachedResultName": "models/gemini-2.5-pro"
+        },
+        "messages": {
+          "values": [
+            {
+              "content": "=Você é um especialista em Processamento de Linguagem Natural (PLN) focado em criar conjuntos de dados de avaliação para sistemas de busca semântica.\nA partir do texto enviado, crie dois novos textos.\nO primeiro é uma paráfrase do texto. Reescreva o `texto_original` usando palavras e estruturas de frase diferentes, mas mantendo 100% do significado e da informação essencial. A semântica deve ser idêntica.\nO segundo é uma pergunta. Formule uma pergunta clara e objetiva cuja resposta direta e completa esteja contida no `texto_original`. A pergunta deve simular como um usuário real buscaria por aquela informação.\n**Formato de Saída OBRIGATÓRIO:**\nA sua resposta DEVE SER ESTRITAMENTE um único objeto JSON válido, sem nenhum texto, comentário ou formatação markdown antes ou depois.\n\n**Estrutura do JSON de Saída:**\n{\n  \"parafrase\": \"A PARAFRASE\",\n  \"pergunta\": \"A PERGUNTA\"\n}\ntext: {{ $json.body.text }}"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "type": "@n8n/n8n-nodes-langchain.googleGemini",
+      "typeVersion": 1,
+      "position": [
+        -240,
+        -160
+      ],
+      "id": "e73bf480-0936-4836-a93a-ef1e9b5368e5",
+      "name": "Message a model",
+      "credentials": {
+        "googlePalmApi": {
+          "id": "8ADG4eQwOTCDpRBN",
+          "name": "Google Gemini(PaLM) Api account"
+        }
+      }
+    }
+  ],
+  "pinData": {},
+  "connections": {
+    "Webhook": {
+      "main": [
+        [
+          {
+            "node": "Message a model",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "active": true,
+  "settings": {
+    "executionOrder": "v1"
+  },
+  "versionId": "083c6717-e057-4c4a-8eec-dc5d44e2283b",
+  "meta": {
+    "templateCredsSetupCompleted": true,
+    "instanceId": "5464250c86b0e3a2606fd1cd49edb9613ac28a09999d246bdbef1f3f7854cfb6"
+  },
+  "id": "9PjDWcuiiqZYfhDt",
+  "tags": []
+}
