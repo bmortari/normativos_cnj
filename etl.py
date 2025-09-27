@@ -57,11 +57,11 @@ MODELS_TO_EVALUATE = [
         "dimension": 768,
         "short_name": "labse"
     },
-    {
-        "name": "alfaneo/bertimbau-base-portuguese-sts",
-        "dimension": 768,
-        "short_name": "bertimbau"
-    }
+    #{
+    #    "name": "alfaneo/bertimbau-base-portuguese-sts",
+    #    "dimension": 768,
+    #    "short_name": "bertimbau"
+    #}
 ]
 
 # --- Credenciais do Banco de Dados ---
@@ -311,7 +311,7 @@ def run_scraper(model: SentenceTransformer, conn, table_name: str, chunking_func
         # ## OTIMIZAÇÃO: Geração de embeddings em lote ##
         print(f"  |-> Gerando embeddings para {len(all_chunks_from_page)} chunks de uma vez...")
         texts_to_embed = [chunk['chunk_text'] for chunk in all_chunks_from_page]
-        embeddings = model.encode(texts_to_embed, show_progress_bar=True)
+        embeddings = model.encode(texts_to_embed, show_progress_bar=True, batch_size=16)
         
         # ## OTIMIZAÇÃO: Preparação dos dados para inserção em lote ##
         data_for_db = []
