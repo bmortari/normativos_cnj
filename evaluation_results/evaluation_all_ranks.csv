@@ -1,0 +1,901 @@
+config_id,config_description,query_index,rank
+bgem3_fixed,Modelo: bge-m3 | Estratégia: Tamanho Fixo,0,inf
+bgem3_fixed,Modelo: bge-m3 | Estratégia: Tamanho Fixo,1,1.0
+bgem3_fixed,Modelo: bge-m3 | Estratégia: Tamanho Fixo,2,7.0
+bgem3_fixed,Modelo: bge-m3 | Estratégia: Tamanho Fixo,3,6.0
+bgem3_fixed,Modelo: bge-m3 | Estratégia: Tamanho Fixo,4,1.0
+bgem3_fixed,Modelo: bge-m3 | Estratégia: Tamanho Fixo,5,inf
+bgem3_fixed,Modelo: bge-m3 | Estratégia: Tamanho Fixo,6,1.0
+bgem3_fixed,Modelo: bge-m3 | Estratégia: Tamanho Fixo,7,inf
+bgem3_fixed,Modelo: bge-m3 | Estratégia: Tamanho Fixo,8,9.0
+bgem3_fixed,Modelo: bge-m3 | Estratégia: Tamanho Fixo,9,1.0
+bgem3_fixed,Modelo: bge-m3 | Estratégia: Tamanho Fixo,10,3.0
+bgem3_fixed,Modelo: bge-m3 | Estratégia: Tamanho Fixo,11,inf
+bgem3_fixed,Modelo: bge-m3 | Estratégia: Tamanho Fixo,12,2.0
+bgem3_fixed,Modelo: bge-m3 | Estratégia: Tamanho Fixo,13,2.0
+bgem3_fixed,Modelo: bge-m3 | Estratégia: Tamanho Fixo,14,2.0
+bgem3_fixed,Modelo: bge-m3 | Estratégia: Tamanho Fixo,15,inf
+bgem3_fixed,Modelo: bge-m3 | Estratégia: Tamanho Fixo,16,1.0
+bgem3_fixed,Modelo: bge-m3 | Estratégia: Tamanho Fixo,17,3.0
+bgem3_fixed,Modelo: bge-m3 | Estratégia: Tamanho Fixo,18,inf
+bgem3_fixed,Modelo: bge-m3 | Estratégia: Tamanho Fixo,19,inf
+bgem3_fixed,Modelo: bge-m3 | Estratégia: Tamanho Fixo,20,inf
+bgem3_fixed,Modelo: bge-m3 | Estratégia: Tamanho Fixo,21,inf
+bgem3_fixed,Modelo: bge-m3 | Estratégia: Tamanho Fixo,22,inf
+bgem3_fixed,Modelo: bge-m3 | Estratégia: Tamanho Fixo,23,7.0
+bgem3_fixed,Modelo: bge-m3 | Estratégia: Tamanho Fixo,24,inf
+bgem3_fixed,Modelo: bge-m3 | Estratégia: Tamanho Fixo,25,1.0
+bgem3_fixed,Modelo: bge-m3 | Estratégia: Tamanho Fixo,26,inf
+bgem3_fixed,Modelo: bge-m3 | Estratégia: Tamanho Fixo,27,8.0
+bgem3_fixed,Modelo: bge-m3 | Estratégia: Tamanho Fixo,28,inf
+bgem3_fixed,Modelo: bge-m3 | Estratégia: Tamanho Fixo,29,inf
+bgem3_fixed,Modelo: bge-m3 | Estratégia: Tamanho Fixo,30,1.0
+bgem3_fixed,Modelo: bge-m3 | Estratégia: Tamanho Fixo,31,5.0
+bgem3_fixed,Modelo: bge-m3 | Estratégia: Tamanho Fixo,32,1.0
+bgem3_fixed,Modelo: bge-m3 | Estratégia: Tamanho Fixo,33,1.0
+bgem3_fixed,Modelo: bge-m3 | Estratégia: Tamanho Fixo,34,inf
+bgem3_fixed,Modelo: bge-m3 | Estratégia: Tamanho Fixo,35,inf
+bgem3_fixed,Modelo: bge-m3 | Estratégia: Tamanho Fixo,36,inf
+bgem3_fixed,Modelo: bge-m3 | Estratégia: Tamanho Fixo,37,2.0
+bgem3_fixed,Modelo: bge-m3 | Estratégia: Tamanho Fixo,38,inf
+bgem3_fixed,Modelo: bge-m3 | Estratégia: Tamanho Fixo,39,6.0
+bgem3_fixed,Modelo: bge-m3 | Estratégia: Tamanho Fixo,40,1.0
+bgem3_fixed,Modelo: bge-m3 | Estratégia: Tamanho Fixo,41,1.0
+bgem3_fixed,Modelo: bge-m3 | Estratégia: Tamanho Fixo,42,1.0
+bgem3_fixed,Modelo: bge-m3 | Estratégia: Tamanho Fixo,43,1.0
+bgem3_fixed,Modelo: bge-m3 | Estratégia: Tamanho Fixo,44,1.0
+bgem3_fixed,Modelo: bge-m3 | Estratégia: Tamanho Fixo,45,1.0
+bgem3_fixed,Modelo: bge-m3 | Estratégia: Tamanho Fixo,46,2.0
+bgem3_fixed,Modelo: bge-m3 | Estratégia: Tamanho Fixo,47,1.0
+bgem3_fixed,Modelo: bge-m3 | Estratégia: Tamanho Fixo,48,1.0
+bgem3_fixed,Modelo: bge-m3 | Estratégia: Tamanho Fixo,49,inf
+bgem3_fixed,Modelo: bge-m3 | Estratégia: Tamanho Fixo,50,inf
+bgem3_fixed,Modelo: bge-m3 | Estratégia: Tamanho Fixo,51,1.0
+bgem3_fixed,Modelo: bge-m3 | Estratégia: Tamanho Fixo,52,1.0
+bgem3_fixed,Modelo: bge-m3 | Estratégia: Tamanho Fixo,53,4.0
+bgem3_fixed,Modelo: bge-m3 | Estratégia: Tamanho Fixo,54,2.0
+bgem3_fixed,Modelo: bge-m3 | Estratégia: Tamanho Fixo,55,2.0
+bgem3_fixed,Modelo: bge-m3 | Estratégia: Tamanho Fixo,56,inf
+bgem3_fixed,Modelo: bge-m3 | Estratégia: Tamanho Fixo,57,1.0
+bgem3_fixed,Modelo: bge-m3 | Estratégia: Tamanho Fixo,58,1.0
+bgem3_fixed,Modelo: bge-m3 | Estratégia: Tamanho Fixo,59,2.0
+bgem3_fixed,Modelo: bge-m3 | Estratégia: Tamanho Fixo,60,2.0
+bgem3_fixed,Modelo: bge-m3 | Estratégia: Tamanho Fixo,61,2.0
+bgem3_fixed,Modelo: bge-m3 | Estratégia: Tamanho Fixo,62,1.0
+bgem3_fixed,Modelo: bge-m3 | Estratégia: Tamanho Fixo,63,2.0
+bgem3_fixed,Modelo: bge-m3 | Estratégia: Tamanho Fixo,64,1.0
+bgem3_fixed,Modelo: bge-m3 | Estratégia: Tamanho Fixo,65,inf
+bgem3_fixed,Modelo: bge-m3 | Estratégia: Tamanho Fixo,66,inf
+bgem3_fixed,Modelo: bge-m3 | Estratégia: Tamanho Fixo,67,8.0
+bgem3_fixed,Modelo: bge-m3 | Estratégia: Tamanho Fixo,68,inf
+bgem3_fixed,Modelo: bge-m3 | Estratégia: Tamanho Fixo,69,inf
+bgem3_fixed,Modelo: bge-m3 | Estratégia: Tamanho Fixo,70,inf
+bgem3_fixed,Modelo: bge-m3 | Estratégia: Tamanho Fixo,71,1.0
+bgem3_fixed,Modelo: bge-m3 | Estratégia: Tamanho Fixo,72,inf
+bgem3_fixed,Modelo: bge-m3 | Estratégia: Tamanho Fixo,73,inf
+bgem3_fixed,Modelo: bge-m3 | Estratégia: Tamanho Fixo,74,1.0
+bgem3_fixed,Modelo: bge-m3 | Estratégia: Tamanho Fixo,75,1.0
+bgem3_fixed,Modelo: bge-m3 | Estratégia: Tamanho Fixo,76,1.0
+bgem3_fixed,Modelo: bge-m3 | Estratégia: Tamanho Fixo,77,1.0
+bgem3_fixed,Modelo: bge-m3 | Estratégia: Tamanho Fixo,78,1.0
+bgem3_fixed,Modelo: bge-m3 | Estratégia: Tamanho Fixo,79,inf
+bgem3_fixed,Modelo: bge-m3 | Estratégia: Tamanho Fixo,80,inf
+bgem3_fixed,Modelo: bge-m3 | Estratégia: Tamanho Fixo,81,1.0
+bgem3_fixed,Modelo: bge-m3 | Estratégia: Tamanho Fixo,82,1.0
+bgem3_fixed,Modelo: bge-m3 | Estratégia: Tamanho Fixo,83,1.0
+bgem3_fixed,Modelo: bge-m3 | Estratégia: Tamanho Fixo,84,1.0
+bgem3_fixed,Modelo: bge-m3 | Estratégia: Tamanho Fixo,85,inf
+bgem3_fixed,Modelo: bge-m3 | Estratégia: Tamanho Fixo,86,inf
+bgem3_fixed,Modelo: bge-m3 | Estratégia: Tamanho Fixo,87,3.0
+bgem3_fixed,Modelo: bge-m3 | Estratégia: Tamanho Fixo,88,inf
+bgem3_fixed,Modelo: bge-m3 | Estratégia: Tamanho Fixo,89,1.0
+bgem3_fixed,Modelo: bge-m3 | Estratégia: Tamanho Fixo,90,1.0
+bgem3_fixed,Modelo: bge-m3 | Estratégia: Tamanho Fixo,91,inf
+bgem3_fixed,Modelo: bge-m3 | Estratégia: Tamanho Fixo,92,1.0
+bgem3_fixed,Modelo: bge-m3 | Estratégia: Tamanho Fixo,93,1.0
+bgem3_fixed,Modelo: bge-m3 | Estratégia: Tamanho Fixo,94,inf
+bgem3_fixed,Modelo: bge-m3 | Estratégia: Tamanho Fixo,95,1.0
+bgem3_fixed,Modelo: bge-m3 | Estratégia: Tamanho Fixo,96,3.0
+bgem3_fixed,Modelo: bge-m3 | Estratégia: Tamanho Fixo,97,2.0
+bgem3_fixed,Modelo: bge-m3 | Estratégia: Tamanho Fixo,98,1.0
+bgem3_fixed,Modelo: bge-m3 | Estratégia: Tamanho Fixo,99,3.0
+bgem3_structured,Modelo: bge-m3 | Estratégia: Estruturada,0,2.0
+bgem3_structured,Modelo: bge-m3 | Estratégia: Estruturada,1,1.0
+bgem3_structured,Modelo: bge-m3 | Estratégia: Estruturada,2,1.0
+bgem3_structured,Modelo: bge-m3 | Estratégia: Estruturada,3,1.0
+bgem3_structured,Modelo: bge-m3 | Estratégia: Estruturada,4,inf
+bgem3_structured,Modelo: bge-m3 | Estratégia: Estruturada,5,inf
+bgem3_structured,Modelo: bge-m3 | Estratégia: Estruturada,6,2.0
+bgem3_structured,Modelo: bge-m3 | Estratégia: Estruturada,7,1.0
+bgem3_structured,Modelo: bge-m3 | Estratégia: Estruturada,8,inf
+bgem3_structured,Modelo: bge-m3 | Estratégia: Estruturada,9,1.0
+bgem3_structured,Modelo: bge-m3 | Estratégia: Estruturada,10,4.0
+bgem3_structured,Modelo: bge-m3 | Estratégia: Estruturada,11,1.0
+bgem3_structured,Modelo: bge-m3 | Estratégia: Estruturada,12,1.0
+bgem3_structured,Modelo: bge-m3 | Estratégia: Estruturada,13,7.0
+bgem3_structured,Modelo: bge-m3 | Estratégia: Estruturada,14,inf
+bgem3_structured,Modelo: bge-m3 | Estratégia: Estruturada,15,inf
+bgem3_structured,Modelo: bge-m3 | Estratégia: Estruturada,16,1.0
+bgem3_structured,Modelo: bge-m3 | Estratégia: Estruturada,17,2.0
+bgem3_structured,Modelo: bge-m3 | Estratégia: Estruturada,18,1.0
+bgem3_structured,Modelo: bge-m3 | Estratégia: Estruturada,19,5.0
+bgem3_structured,Modelo: bge-m3 | Estratégia: Estruturada,20,2.0
+bgem3_structured,Modelo: bge-m3 | Estratégia: Estruturada,21,6.0
+bgem3_structured,Modelo: bge-m3 | Estratégia: Estruturada,22,5.0
+bgem3_structured,Modelo: bge-m3 | Estratégia: Estruturada,23,4.0
+bgem3_structured,Modelo: bge-m3 | Estratégia: Estruturada,24,9.0
+bgem3_structured,Modelo: bge-m3 | Estratégia: Estruturada,25,2.0
+bgem3_structured,Modelo: bge-m3 | Estratégia: Estruturada,26,1.0
+bgem3_structured,Modelo: bge-m3 | Estratégia: Estruturada,27,3.0
+bgem3_structured,Modelo: bge-m3 | Estratégia: Estruturada,28,1.0
+bgem3_structured,Modelo: bge-m3 | Estratégia: Estruturada,29,1.0
+bgem3_structured,Modelo: bge-m3 | Estratégia: Estruturada,30,1.0
+bgem3_structured,Modelo: bge-m3 | Estratégia: Estruturada,31,2.0
+bgem3_structured,Modelo: bge-m3 | Estratégia: Estruturada,32,1.0
+bgem3_structured,Modelo: bge-m3 | Estratégia: Estruturada,33,6.0
+bgem3_structured,Modelo: bge-m3 | Estratégia: Estruturada,34,1.0
+bgem3_structured,Modelo: bge-m3 | Estratégia: Estruturada,35,1.0
+bgem3_structured,Modelo: bge-m3 | Estratégia: Estruturada,36,1.0
+bgem3_structured,Modelo: bge-m3 | Estratégia: Estruturada,37,inf
+bgem3_structured,Modelo: bge-m3 | Estratégia: Estruturada,38,1.0
+bgem3_structured,Modelo: bge-m3 | Estratégia: Estruturada,39,1.0
+bgem3_structured,Modelo: bge-m3 | Estratégia: Estruturada,40,1.0
+bgem3_structured,Modelo: bge-m3 | Estratégia: Estruturada,41,inf
+bgem3_structured,Modelo: bge-m3 | Estratégia: Estruturada,42,2.0
+bgem3_structured,Modelo: bge-m3 | Estratégia: Estruturada,43,1.0
+bgem3_structured,Modelo: bge-m3 | Estratégia: Estruturada,44,1.0
+bgem3_structured,Modelo: bge-m3 | Estratégia: Estruturada,45,5.0
+bgem3_structured,Modelo: bge-m3 | Estratégia: Estruturada,46,1.0
+bgem3_structured,Modelo: bge-m3 | Estratégia: Estruturada,47,1.0
+bgem3_structured,Modelo: bge-m3 | Estratégia: Estruturada,48,1.0
+bgem3_structured,Modelo: bge-m3 | Estratégia: Estruturada,49,1.0
+bgem3_structured,Modelo: bge-m3 | Estratégia: Estruturada,50,1.0
+bgem3_structured,Modelo: bge-m3 | Estratégia: Estruturada,51,1.0
+bgem3_structured,Modelo: bge-m3 | Estratégia: Estruturada,52,inf
+bgem3_structured,Modelo: bge-m3 | Estratégia: Estruturada,53,1.0
+bgem3_structured,Modelo: bge-m3 | Estratégia: Estruturada,54,9.0
+bgem3_structured,Modelo: bge-m3 | Estratégia: Estruturada,55,inf
+bgem3_structured,Modelo: bge-m3 | Estratégia: Estruturada,56,1.0
+bgem3_structured,Modelo: bge-m3 | Estratégia: Estruturada,57,inf
+bgem3_structured,Modelo: bge-m3 | Estratégia: Estruturada,58,1.0
+bgem3_structured,Modelo: bge-m3 | Estratégia: Estruturada,59,4.0
+bgem3_structured,Modelo: bge-m3 | Estratégia: Estruturada,60,1.0
+bgem3_structured,Modelo: bge-m3 | Estratégia: Estruturada,61,inf
+bgem3_structured,Modelo: bge-m3 | Estratégia: Estruturada,62,1.0
+bgem3_structured,Modelo: bge-m3 | Estratégia: Estruturada,63,inf
+bgem3_structured,Modelo: bge-m3 | Estratégia: Estruturada,64,1.0
+bgem3_structured,Modelo: bge-m3 | Estratégia: Estruturada,65,inf
+bgem3_structured,Modelo: bge-m3 | Estratégia: Estruturada,66,1.0
+bgem3_structured,Modelo: bge-m3 | Estratégia: Estruturada,67,1.0
+bgem3_structured,Modelo: bge-m3 | Estratégia: Estruturada,68,2.0
+bgem3_structured,Modelo: bge-m3 | Estratégia: Estruturada,69,inf
+bgem3_structured,Modelo: bge-m3 | Estratégia: Estruturada,70,1.0
+bgem3_structured,Modelo: bge-m3 | Estratégia: Estruturada,71,3.0
+bgem3_structured,Modelo: bge-m3 | Estratégia: Estruturada,72,inf
+bgem3_structured,Modelo: bge-m3 | Estratégia: Estruturada,73,1.0
+bgem3_structured,Modelo: bge-m3 | Estratégia: Estruturada,74,2.0
+bgem3_structured,Modelo: bge-m3 | Estratégia: Estruturada,75,inf
+bgem3_structured,Modelo: bge-m3 | Estratégia: Estruturada,76,1.0
+bgem3_structured,Modelo: bge-m3 | Estratégia: Estruturada,77,inf
+bgem3_structured,Modelo: bge-m3 | Estratégia: Estruturada,78,1.0
+bgem3_structured,Modelo: bge-m3 | Estratégia: Estruturada,79,1.0
+bgem3_structured,Modelo: bge-m3 | Estratégia: Estruturada,80,1.0
+bgem3_structured,Modelo: bge-m3 | Estratégia: Estruturada,81,inf
+bgem3_structured,Modelo: bge-m3 | Estratégia: Estruturada,82,2.0
+bgem3_structured,Modelo: bge-m3 | Estratégia: Estruturada,83,inf
+bgem3_structured,Modelo: bge-m3 | Estratégia: Estruturada,84,1.0
+bgem3_structured,Modelo: bge-m3 | Estratégia: Estruturada,85,4.0
+bgem3_structured,Modelo: bge-m3 | Estratégia: Estruturada,86,8.0
+bgem3_structured,Modelo: bge-m3 | Estratégia: Estruturada,87,1.0
+bgem3_structured,Modelo: bge-m3 | Estratégia: Estruturada,88,4.0
+bgem3_structured,Modelo: bge-m3 | Estratégia: Estruturada,89,2.0
+bgem3_structured,Modelo: bge-m3 | Estratégia: Estruturada,90,inf
+bgem3_structured,Modelo: bge-m3 | Estratégia: Estruturada,91,1.0
+bgem3_structured,Modelo: bge-m3 | Estratégia: Estruturada,92,inf
+bgem3_structured,Modelo: bge-m3 | Estratégia: Estruturada,93,5.0
+bgem3_structured,Modelo: bge-m3 | Estratégia: Estruturada,94,1.0
+bgem3_structured,Modelo: bge-m3 | Estratégia: Estruturada,95,inf
+bgem3_structured,Modelo: bge-m3 | Estratégia: Estruturada,96,2.0
+bgem3_structured,Modelo: bge-m3 | Estratégia: Estruturada,97,1.0
+bgem3_structured,Modelo: bge-m3 | Estratégia: Estruturada,98,1.0
+bgem3_structured,Modelo: bge-m3 | Estratégia: Estruturada,99,1.0
+bgem3_recursive,Modelo: bge-m3 | Estratégia: Recursiva,0,1.0
+bgem3_recursive,Modelo: bge-m3 | Estratégia: Recursiva,1,inf
+bgem3_recursive,Modelo: bge-m3 | Estratégia: Recursiva,2,inf
+bgem3_recursive,Modelo: bge-m3 | Estratégia: Recursiva,3,inf
+bgem3_recursive,Modelo: bge-m3 | Estratégia: Recursiva,4,inf
+bgem3_recursive,Modelo: bge-m3 | Estratégia: Recursiva,5,inf
+bgem3_recursive,Modelo: bge-m3 | Estratégia: Recursiva,6,1.0
+bgem3_recursive,Modelo: bge-m3 | Estratégia: Recursiva,7,2.0
+bgem3_recursive,Modelo: bge-m3 | Estratégia: Recursiva,8,2.0
+bgem3_recursive,Modelo: bge-m3 | Estratégia: Recursiva,9,1.0
+bgem3_recursive,Modelo: bge-m3 | Estratégia: Recursiva,10,1.0
+bgem3_recursive,Modelo: bge-m3 | Estratégia: Recursiva,11,inf
+bgem3_recursive,Modelo: bge-m3 | Estratégia: Recursiva,12,inf
+bgem3_recursive,Modelo: bge-m3 | Estratégia: Recursiva,13,inf
+bgem3_recursive,Modelo: bge-m3 | Estratégia: Recursiva,14,inf
+bgem3_recursive,Modelo: bge-m3 | Estratégia: Recursiva,15,1.0
+bgem3_recursive,Modelo: bge-m3 | Estratégia: Recursiva,16,2.0
+bgem3_recursive,Modelo: bge-m3 | Estratégia: Recursiva,17,1.0
+bgem3_recursive,Modelo: bge-m3 | Estratégia: Recursiva,18,1.0
+bgem3_recursive,Modelo: bge-m3 | Estratégia: Recursiva,19,inf
+bgem3_recursive,Modelo: bge-m3 | Estratégia: Recursiva,20,1.0
+bgem3_recursive,Modelo: bge-m3 | Estratégia: Recursiva,21,inf
+bgem3_recursive,Modelo: bge-m3 | Estratégia: Recursiva,22,1.0
+bgem3_recursive,Modelo: bge-m3 | Estratégia: Recursiva,23,inf
+bgem3_recursive,Modelo: bge-m3 | Estratégia: Recursiva,24,inf
+bgem3_recursive,Modelo: bge-m3 | Estratégia: Recursiva,25,inf
+bgem3_recursive,Modelo: bge-m3 | Estratégia: Recursiva,26,5.0
+bgem3_recursive,Modelo: bge-m3 | Estratégia: Recursiva,27,1.0
+bgem3_recursive,Modelo: bge-m3 | Estratégia: Recursiva,28,inf
+bgem3_recursive,Modelo: bge-m3 | Estratégia: Recursiva,29,1.0
+bgem3_recursive,Modelo: bge-m3 | Estratégia: Recursiva,30,inf
+bgem3_recursive,Modelo: bge-m3 | Estratégia: Recursiva,31,inf
+bgem3_recursive,Modelo: bge-m3 | Estratégia: Recursiva,32,1.0
+bgem3_recursive,Modelo: bge-m3 | Estratégia: Recursiva,33,1.0
+bgem3_recursive,Modelo: bge-m3 | Estratégia: Recursiva,34,inf
+bgem3_recursive,Modelo: bge-m3 | Estratégia: Recursiva,35,2.0
+bgem3_recursive,Modelo: bge-m3 | Estratégia: Recursiva,36,inf
+bgem3_recursive,Modelo: bge-m3 | Estratégia: Recursiva,37,inf
+bgem3_recursive,Modelo: bge-m3 | Estratégia: Recursiva,38,inf
+bgem3_recursive,Modelo: bge-m3 | Estratégia: Recursiva,39,inf
+bgem3_recursive,Modelo: bge-m3 | Estratégia: Recursiva,40,1.0
+bgem3_recursive,Modelo: bge-m3 | Estratégia: Recursiva,41,inf
+bgem3_recursive,Modelo: bge-m3 | Estratégia: Recursiva,42,6.0
+bgem3_recursive,Modelo: bge-m3 | Estratégia: Recursiva,43,3.0
+bgem3_recursive,Modelo: bge-m3 | Estratégia: Recursiva,44,inf
+bgem3_recursive,Modelo: bge-m3 | Estratégia: Recursiva,45,inf
+bgem3_recursive,Modelo: bge-m3 | Estratégia: Recursiva,46,1.0
+bgem3_recursive,Modelo: bge-m3 | Estratégia: Recursiva,47,1.0
+bgem3_recursive,Modelo: bge-m3 | Estratégia: Recursiva,48,2.0
+bgem3_recursive,Modelo: bge-m3 | Estratégia: Recursiva,49,inf
+bgem3_recursive,Modelo: bge-m3 | Estratégia: Recursiva,50,inf
+bgem3_recursive,Modelo: bge-m3 | Estratégia: Recursiva,51,inf
+bgem3_recursive,Modelo: bge-m3 | Estratégia: Recursiva,52,inf
+bgem3_recursive,Modelo: bge-m3 | Estratégia: Recursiva,53,inf
+bgem3_recursive,Modelo: bge-m3 | Estratégia: Recursiva,54,1.0
+bgem3_recursive,Modelo: bge-m3 | Estratégia: Recursiva,55,1.0
+bgem3_recursive,Modelo: bge-m3 | Estratégia: Recursiva,56,1.0
+bgem3_recursive,Modelo: bge-m3 | Estratégia: Recursiva,57,inf
+bgem3_recursive,Modelo: bge-m3 | Estratégia: Recursiva,58,1.0
+bgem3_recursive,Modelo: bge-m3 | Estratégia: Recursiva,59,inf
+bgem3_recursive,Modelo: bge-m3 | Estratégia: Recursiva,60,inf
+bgem3_recursive,Modelo: bge-m3 | Estratégia: Recursiva,61,inf
+bgem3_recursive,Modelo: bge-m3 | Estratégia: Recursiva,62,inf
+bgem3_recursive,Modelo: bge-m3 | Estratégia: Recursiva,63,inf
+bgem3_recursive,Modelo: bge-m3 | Estratégia: Recursiva,64,inf
+bgem3_recursive,Modelo: bge-m3 | Estratégia: Recursiva,65,inf
+bgem3_recursive,Modelo: bge-m3 | Estratégia: Recursiva,66,inf
+bgem3_recursive,Modelo: bge-m3 | Estratégia: Recursiva,67,inf
+bgem3_recursive,Modelo: bge-m3 | Estratégia: Recursiva,68,inf
+bgem3_recursive,Modelo: bge-m3 | Estratégia: Recursiva,69,inf
+bgem3_recursive,Modelo: bge-m3 | Estratégia: Recursiva,70,inf
+bgem3_recursive,Modelo: bge-m3 | Estratégia: Recursiva,71,inf
+bgem3_recursive,Modelo: bge-m3 | Estratégia: Recursiva,72,1.0
+bgem3_recursive,Modelo: bge-m3 | Estratégia: Recursiva,73,inf
+bgem3_recursive,Modelo: bge-m3 | Estratégia: Recursiva,74,1.0
+bgem3_recursive,Modelo: bge-m3 | Estratégia: Recursiva,75,inf
+bgem3_recursive,Modelo: bge-m3 | Estratégia: Recursiva,76,2.0
+bgem3_recursive,Modelo: bge-m3 | Estratégia: Recursiva,77,inf
+bgem3_recursive,Modelo: bge-m3 | Estratégia: Recursiva,78,inf
+bgem3_recursive,Modelo: bge-m3 | Estratégia: Recursiva,79,inf
+bgem3_recursive,Modelo: bge-m3 | Estratégia: Recursiva,80,inf
+bgem3_recursive,Modelo: bge-m3 | Estratégia: Recursiva,81,inf
+bgem3_recursive,Modelo: bge-m3 | Estratégia: Recursiva,82,inf
+bgem3_recursive,Modelo: bge-m3 | Estratégia: Recursiva,83,inf
+bgem3_recursive,Modelo: bge-m3 | Estratégia: Recursiva,84,inf
+bgem3_recursive,Modelo: bge-m3 | Estratégia: Recursiva,85,inf
+bgem3_recursive,Modelo: bge-m3 | Estratégia: Recursiva,86,1.0
+bgem3_recursive,Modelo: bge-m3 | Estratégia: Recursiva,87,2.0
+bgem3_recursive,Modelo: bge-m3 | Estratégia: Recursiva,88,inf
+bgem3_recursive,Modelo: bge-m3 | Estratégia: Recursiva,89,inf
+bgem3_recursive,Modelo: bge-m3 | Estratégia: Recursiva,90,inf
+bgem3_recursive,Modelo: bge-m3 | Estratégia: Recursiva,91,inf
+bgem3_recursive,Modelo: bge-m3 | Estratégia: Recursiva,92,2.0
+bgem3_recursive,Modelo: bge-m3 | Estratégia: Recursiva,93,6.0
+bgem3_recursive,Modelo: bge-m3 | Estratégia: Recursiva,94,inf
+bgem3_recursive,Modelo: bge-m3 | Estratégia: Recursiva,95,inf
+bgem3_recursive,Modelo: bge-m3 | Estratégia: Recursiva,96,1.0
+bgem3_recursive,Modelo: bge-m3 | Estratégia: Recursiva,97,1.0
+bgem3_recursive,Modelo: bge-m3 | Estratégia: Recursiva,98,inf
+bgem3_recursive,Modelo: bge-m3 | Estratégia: Recursiva,99,inf
+minilm_fixed,Modelo: MiniLM | Estratégia: Tamanho Fixo,0,2.0
+minilm_fixed,Modelo: MiniLM | Estratégia: Tamanho Fixo,1,10.0
+minilm_fixed,Modelo: MiniLM | Estratégia: Tamanho Fixo,2,inf
+minilm_fixed,Modelo: MiniLM | Estratégia: Tamanho Fixo,3,inf
+minilm_fixed,Modelo: MiniLM | Estratégia: Tamanho Fixo,4,inf
+minilm_fixed,Modelo: MiniLM | Estratégia: Tamanho Fixo,5,inf
+minilm_fixed,Modelo: MiniLM | Estratégia: Tamanho Fixo,6,inf
+minilm_fixed,Modelo: MiniLM | Estratégia: Tamanho Fixo,7,inf
+minilm_fixed,Modelo: MiniLM | Estratégia: Tamanho Fixo,8,inf
+minilm_fixed,Modelo: MiniLM | Estratégia: Tamanho Fixo,9,inf
+minilm_fixed,Modelo: MiniLM | Estratégia: Tamanho Fixo,10,inf
+minilm_fixed,Modelo: MiniLM | Estratégia: Tamanho Fixo,11,inf
+minilm_fixed,Modelo: MiniLM | Estratégia: Tamanho Fixo,12,inf
+minilm_fixed,Modelo: MiniLM | Estratégia: Tamanho Fixo,13,inf
+minilm_fixed,Modelo: MiniLM | Estratégia: Tamanho Fixo,14,inf
+minilm_fixed,Modelo: MiniLM | Estratégia: Tamanho Fixo,15,inf
+minilm_fixed,Modelo: MiniLM | Estratégia: Tamanho Fixo,16,inf
+minilm_fixed,Modelo: MiniLM | Estratégia: Tamanho Fixo,17,3.0
+minilm_fixed,Modelo: MiniLM | Estratégia: Tamanho Fixo,18,inf
+minilm_fixed,Modelo: MiniLM | Estratégia: Tamanho Fixo,19,inf
+minilm_fixed,Modelo: MiniLM | Estratégia: Tamanho Fixo,20,inf
+minilm_fixed,Modelo: MiniLM | Estratégia: Tamanho Fixo,21,inf
+minilm_fixed,Modelo: MiniLM | Estratégia: Tamanho Fixo,22,inf
+minilm_fixed,Modelo: MiniLM | Estratégia: Tamanho Fixo,23,1.0
+minilm_fixed,Modelo: MiniLM | Estratégia: Tamanho Fixo,24,inf
+minilm_fixed,Modelo: MiniLM | Estratégia: Tamanho Fixo,25,inf
+minilm_fixed,Modelo: MiniLM | Estratégia: Tamanho Fixo,26,inf
+minilm_fixed,Modelo: MiniLM | Estratégia: Tamanho Fixo,27,1.0
+minilm_fixed,Modelo: MiniLM | Estratégia: Tamanho Fixo,28,1.0
+minilm_fixed,Modelo: MiniLM | Estratégia: Tamanho Fixo,29,inf
+minilm_fixed,Modelo: MiniLM | Estratégia: Tamanho Fixo,30,inf
+minilm_fixed,Modelo: MiniLM | Estratégia: Tamanho Fixo,31,inf
+minilm_fixed,Modelo: MiniLM | Estratégia: Tamanho Fixo,32,inf
+minilm_fixed,Modelo: MiniLM | Estratégia: Tamanho Fixo,33,inf
+minilm_fixed,Modelo: MiniLM | Estratégia: Tamanho Fixo,34,inf
+minilm_fixed,Modelo: MiniLM | Estratégia: Tamanho Fixo,35,inf
+minilm_fixed,Modelo: MiniLM | Estratégia: Tamanho Fixo,36,inf
+minilm_fixed,Modelo: MiniLM | Estratégia: Tamanho Fixo,37,inf
+minilm_fixed,Modelo: MiniLM | Estratégia: Tamanho Fixo,38,1.0
+minilm_fixed,Modelo: MiniLM | Estratégia: Tamanho Fixo,39,inf
+minilm_fixed,Modelo: MiniLM | Estratégia: Tamanho Fixo,40,inf
+minilm_fixed,Modelo: MiniLM | Estratégia: Tamanho Fixo,41,inf
+minilm_fixed,Modelo: MiniLM | Estratégia: Tamanho Fixo,42,inf
+minilm_fixed,Modelo: MiniLM | Estratégia: Tamanho Fixo,43,inf
+minilm_fixed,Modelo: MiniLM | Estratégia: Tamanho Fixo,44,inf
+minilm_fixed,Modelo: MiniLM | Estratégia: Tamanho Fixo,45,2.0
+minilm_fixed,Modelo: MiniLM | Estratégia: Tamanho Fixo,46,inf
+minilm_fixed,Modelo: MiniLM | Estratégia: Tamanho Fixo,47,inf
+minilm_fixed,Modelo: MiniLM | Estratégia: Tamanho Fixo,48,2.0
+minilm_fixed,Modelo: MiniLM | Estratégia: Tamanho Fixo,49,inf
+minilm_fixed,Modelo: MiniLM | Estratégia: Tamanho Fixo,50,inf
+minilm_fixed,Modelo: MiniLM | Estratégia: Tamanho Fixo,51,inf
+minilm_fixed,Modelo: MiniLM | Estratégia: Tamanho Fixo,52,inf
+minilm_fixed,Modelo: MiniLM | Estratégia: Tamanho Fixo,53,inf
+minilm_fixed,Modelo: MiniLM | Estratégia: Tamanho Fixo,54,inf
+minilm_fixed,Modelo: MiniLM | Estratégia: Tamanho Fixo,55,inf
+minilm_fixed,Modelo: MiniLM | Estratégia: Tamanho Fixo,56,inf
+minilm_fixed,Modelo: MiniLM | Estratégia: Tamanho Fixo,57,inf
+minilm_fixed,Modelo: MiniLM | Estratégia: Tamanho Fixo,58,4.0
+minilm_fixed,Modelo: MiniLM | Estratégia: Tamanho Fixo,59,inf
+minilm_fixed,Modelo: MiniLM | Estratégia: Tamanho Fixo,60,inf
+minilm_fixed,Modelo: MiniLM | Estratégia: Tamanho Fixo,61,inf
+minilm_fixed,Modelo: MiniLM | Estratégia: Tamanho Fixo,62,inf
+minilm_fixed,Modelo: MiniLM | Estratégia: Tamanho Fixo,63,inf
+minilm_fixed,Modelo: MiniLM | Estratégia: Tamanho Fixo,64,inf
+minilm_fixed,Modelo: MiniLM | Estratégia: Tamanho Fixo,65,inf
+minilm_fixed,Modelo: MiniLM | Estratégia: Tamanho Fixo,66,inf
+minilm_fixed,Modelo: MiniLM | Estratégia: Tamanho Fixo,67,1.0
+minilm_fixed,Modelo: MiniLM | Estratégia: Tamanho Fixo,68,inf
+minilm_fixed,Modelo: MiniLM | Estratégia: Tamanho Fixo,69,inf
+minilm_fixed,Modelo: MiniLM | Estratégia: Tamanho Fixo,70,1.0
+minilm_fixed,Modelo: MiniLM | Estratégia: Tamanho Fixo,71,inf
+minilm_fixed,Modelo: MiniLM | Estratégia: Tamanho Fixo,72,inf
+minilm_fixed,Modelo: MiniLM | Estratégia: Tamanho Fixo,73,inf
+minilm_fixed,Modelo: MiniLM | Estratégia: Tamanho Fixo,74,inf
+minilm_fixed,Modelo: MiniLM | Estratégia: Tamanho Fixo,75,inf
+minilm_fixed,Modelo: MiniLM | Estratégia: Tamanho Fixo,76,inf
+minilm_fixed,Modelo: MiniLM | Estratégia: Tamanho Fixo,77,2.0
+minilm_fixed,Modelo: MiniLM | Estratégia: Tamanho Fixo,78,1.0
+minilm_fixed,Modelo: MiniLM | Estratégia: Tamanho Fixo,79,inf
+minilm_fixed,Modelo: MiniLM | Estratégia: Tamanho Fixo,80,1.0
+minilm_fixed,Modelo: MiniLM | Estratégia: Tamanho Fixo,81,3.0
+minilm_fixed,Modelo: MiniLM | Estratégia: Tamanho Fixo,82,inf
+minilm_fixed,Modelo: MiniLM | Estratégia: Tamanho Fixo,83,inf
+minilm_fixed,Modelo: MiniLM | Estratégia: Tamanho Fixo,84,inf
+minilm_fixed,Modelo: MiniLM | Estratégia: Tamanho Fixo,85,inf
+minilm_fixed,Modelo: MiniLM | Estratégia: Tamanho Fixo,86,inf
+minilm_fixed,Modelo: MiniLM | Estratégia: Tamanho Fixo,87,inf
+minilm_fixed,Modelo: MiniLM | Estratégia: Tamanho Fixo,88,1.0
+minilm_fixed,Modelo: MiniLM | Estratégia: Tamanho Fixo,89,inf
+minilm_fixed,Modelo: MiniLM | Estratégia: Tamanho Fixo,90,inf
+minilm_fixed,Modelo: MiniLM | Estratégia: Tamanho Fixo,91,inf
+minilm_fixed,Modelo: MiniLM | Estratégia: Tamanho Fixo,92,inf
+minilm_fixed,Modelo: MiniLM | Estratégia: Tamanho Fixo,93,2.0
+minilm_fixed,Modelo: MiniLM | Estratégia: Tamanho Fixo,94,inf
+minilm_fixed,Modelo: MiniLM | Estratégia: Tamanho Fixo,95,inf
+minilm_fixed,Modelo: MiniLM | Estratégia: Tamanho Fixo,96,inf
+minilm_fixed,Modelo: MiniLM | Estratégia: Tamanho Fixo,97,1.0
+minilm_fixed,Modelo: MiniLM | Estratégia: Tamanho Fixo,98,10.0
+minilm_fixed,Modelo: MiniLM | Estratégia: Tamanho Fixo,99,inf
+minilm_structured,Modelo: MiniLM | Estratégia: Estruturada,0,inf
+minilm_structured,Modelo: MiniLM | Estratégia: Estruturada,1,1.0
+minilm_structured,Modelo: MiniLM | Estratégia: Estruturada,2,inf
+minilm_structured,Modelo: MiniLM | Estratégia: Estruturada,3,inf
+minilm_structured,Modelo: MiniLM | Estratégia: Estruturada,4,inf
+minilm_structured,Modelo: MiniLM | Estratégia: Estruturada,5,inf
+minilm_structured,Modelo: MiniLM | Estratégia: Estruturada,6,inf
+minilm_structured,Modelo: MiniLM | Estratégia: Estruturada,7,inf
+minilm_structured,Modelo: MiniLM | Estratégia: Estruturada,8,inf
+minilm_structured,Modelo: MiniLM | Estratégia: Estruturada,9,inf
+minilm_structured,Modelo: MiniLM | Estratégia: Estruturada,10,inf
+minilm_structured,Modelo: MiniLM | Estratégia: Estruturada,11,inf
+minilm_structured,Modelo: MiniLM | Estratégia: Estruturada,12,1.0
+minilm_structured,Modelo: MiniLM | Estratégia: Estruturada,13,inf
+minilm_structured,Modelo: MiniLM | Estratégia: Estruturada,14,inf
+minilm_structured,Modelo: MiniLM | Estratégia: Estruturada,15,inf
+minilm_structured,Modelo: MiniLM | Estratégia: Estruturada,16,1.0
+minilm_structured,Modelo: MiniLM | Estratégia: Estruturada,17,inf
+minilm_structured,Modelo: MiniLM | Estratégia: Estruturada,18,inf
+minilm_structured,Modelo: MiniLM | Estratégia: Estruturada,19,8.0
+minilm_structured,Modelo: MiniLM | Estratégia: Estruturada,20,1.0
+minilm_structured,Modelo: MiniLM | Estratégia: Estruturada,21,1.0
+minilm_structured,Modelo: MiniLM | Estratégia: Estruturada,22,inf
+minilm_structured,Modelo: MiniLM | Estratégia: Estruturada,23,1.0
+minilm_structured,Modelo: MiniLM | Estratégia: Estruturada,24,inf
+minilm_structured,Modelo: MiniLM | Estratégia: Estruturada,25,inf
+minilm_structured,Modelo: MiniLM | Estratégia: Estruturada,26,inf
+minilm_structured,Modelo: MiniLM | Estratégia: Estruturada,27,inf
+minilm_structured,Modelo: MiniLM | Estratégia: Estruturada,28,inf
+minilm_structured,Modelo: MiniLM | Estratégia: Estruturada,29,inf
+minilm_structured,Modelo: MiniLM | Estratégia: Estruturada,30,2.0
+minilm_structured,Modelo: MiniLM | Estratégia: Estruturada,31,inf
+minilm_structured,Modelo: MiniLM | Estratégia: Estruturada,32,inf
+minilm_structured,Modelo: MiniLM | Estratégia: Estruturada,33,2.0
+minilm_structured,Modelo: MiniLM | Estratégia: Estruturada,34,inf
+minilm_structured,Modelo: MiniLM | Estratégia: Estruturada,35,inf
+minilm_structured,Modelo: MiniLM | Estratégia: Estruturada,36,1.0
+minilm_structured,Modelo: MiniLM | Estratégia: Estruturada,37,inf
+minilm_structured,Modelo: MiniLM | Estratégia: Estruturada,38,inf
+minilm_structured,Modelo: MiniLM | Estratégia: Estruturada,39,inf
+minilm_structured,Modelo: MiniLM | Estratégia: Estruturada,40,inf
+minilm_structured,Modelo: MiniLM | Estratégia: Estruturada,41,inf
+minilm_structured,Modelo: MiniLM | Estratégia: Estruturada,42,5.0
+minilm_structured,Modelo: MiniLM | Estratégia: Estruturada,43,inf
+minilm_structured,Modelo: MiniLM | Estratégia: Estruturada,44,2.0
+minilm_structured,Modelo: MiniLM | Estratégia: Estruturada,45,3.0
+minilm_structured,Modelo: MiniLM | Estratégia: Estruturada,46,10.0
+minilm_structured,Modelo: MiniLM | Estratégia: Estruturada,47,2.0
+minilm_structured,Modelo: MiniLM | Estratégia: Estruturada,48,inf
+minilm_structured,Modelo: MiniLM | Estratégia: Estruturada,49,1.0
+minilm_structured,Modelo: MiniLM | Estratégia: Estruturada,50,2.0
+minilm_structured,Modelo: MiniLM | Estratégia: Estruturada,51,inf
+minilm_structured,Modelo: MiniLM | Estratégia: Estruturada,52,inf
+minilm_structured,Modelo: MiniLM | Estratégia: Estruturada,53,inf
+minilm_structured,Modelo: MiniLM | Estratégia: Estruturada,54,2.0
+minilm_structured,Modelo: MiniLM | Estratégia: Estruturada,55,1.0
+minilm_structured,Modelo: MiniLM | Estratégia: Estruturada,56,inf
+minilm_structured,Modelo: MiniLM | Estratégia: Estruturada,57,inf
+minilm_structured,Modelo: MiniLM | Estratégia: Estruturada,58,inf
+minilm_structured,Modelo: MiniLM | Estratégia: Estruturada,59,inf
+minilm_structured,Modelo: MiniLM | Estratégia: Estruturada,60,2.0
+minilm_structured,Modelo: MiniLM | Estratégia: Estruturada,61,inf
+minilm_structured,Modelo: MiniLM | Estratégia: Estruturada,62,inf
+minilm_structured,Modelo: MiniLM | Estratégia: Estruturada,63,inf
+minilm_structured,Modelo: MiniLM | Estratégia: Estruturada,64,inf
+minilm_structured,Modelo: MiniLM | Estratégia: Estruturada,65,inf
+minilm_structured,Modelo: MiniLM | Estratégia: Estruturada,66,inf
+minilm_structured,Modelo: MiniLM | Estratégia: Estruturada,67,inf
+minilm_structured,Modelo: MiniLM | Estratégia: Estruturada,68,inf
+minilm_structured,Modelo: MiniLM | Estratégia: Estruturada,69,inf
+minilm_structured,Modelo: MiniLM | Estratégia: Estruturada,70,inf
+minilm_structured,Modelo: MiniLM | Estratégia: Estruturada,71,1.0
+minilm_structured,Modelo: MiniLM | Estratégia: Estruturada,72,1.0
+minilm_structured,Modelo: MiniLM | Estratégia: Estruturada,73,inf
+minilm_structured,Modelo: MiniLM | Estratégia: Estruturada,74,2.0
+minilm_structured,Modelo: MiniLM | Estratégia: Estruturada,75,1.0
+minilm_structured,Modelo: MiniLM | Estratégia: Estruturada,76,inf
+minilm_structured,Modelo: MiniLM | Estratégia: Estruturada,77,inf
+minilm_structured,Modelo: MiniLM | Estratégia: Estruturada,78,inf
+minilm_structured,Modelo: MiniLM | Estratégia: Estruturada,79,inf
+minilm_structured,Modelo: MiniLM | Estratégia: Estruturada,80,5.0
+minilm_structured,Modelo: MiniLM | Estratégia: Estruturada,81,inf
+minilm_structured,Modelo: MiniLM | Estratégia: Estruturada,82,inf
+minilm_structured,Modelo: MiniLM | Estratégia: Estruturada,83,inf
+minilm_structured,Modelo: MiniLM | Estratégia: Estruturada,84,1.0
+minilm_structured,Modelo: MiniLM | Estratégia: Estruturada,85,inf
+minilm_structured,Modelo: MiniLM | Estratégia: Estruturada,86,inf
+minilm_structured,Modelo: MiniLM | Estratégia: Estruturada,87,inf
+minilm_structured,Modelo: MiniLM | Estratégia: Estruturada,88,inf
+minilm_structured,Modelo: MiniLM | Estratégia: Estruturada,89,inf
+minilm_structured,Modelo: MiniLM | Estratégia: Estruturada,90,3.0
+minilm_structured,Modelo: MiniLM | Estratégia: Estruturada,91,4.0
+minilm_structured,Modelo: MiniLM | Estratégia: Estruturada,92,3.0
+minilm_structured,Modelo: MiniLM | Estratégia: Estruturada,93,inf
+minilm_structured,Modelo: MiniLM | Estratégia: Estruturada,94,inf
+minilm_structured,Modelo: MiniLM | Estratégia: Estruturada,95,inf
+minilm_structured,Modelo: MiniLM | Estratégia: Estruturada,96,inf
+minilm_structured,Modelo: MiniLM | Estratégia: Estruturada,97,inf
+minilm_structured,Modelo: MiniLM | Estratégia: Estruturada,98,2.0
+minilm_structured,Modelo: MiniLM | Estratégia: Estruturada,99,inf
+minilm_recursive,Modelo: MiniLM | Estratégia: Recursiva,0,5.0
+minilm_recursive,Modelo: MiniLM | Estratégia: Recursiva,1,5.0
+minilm_recursive,Modelo: MiniLM | Estratégia: Recursiva,2,inf
+minilm_recursive,Modelo: MiniLM | Estratégia: Recursiva,3,inf
+minilm_recursive,Modelo: MiniLM | Estratégia: Recursiva,4,inf
+minilm_recursive,Modelo: MiniLM | Estratégia: Recursiva,5,inf
+minilm_recursive,Modelo: MiniLM | Estratégia: Recursiva,6,inf
+minilm_recursive,Modelo: MiniLM | Estratégia: Recursiva,7,inf
+minilm_recursive,Modelo: MiniLM | Estratégia: Recursiva,8,inf
+minilm_recursive,Modelo: MiniLM | Estratégia: Recursiva,9,1.0
+minilm_recursive,Modelo: MiniLM | Estratégia: Recursiva,10,1.0
+minilm_recursive,Modelo: MiniLM | Estratégia: Recursiva,11,inf
+minilm_recursive,Modelo: MiniLM | Estratégia: Recursiva,12,inf
+minilm_recursive,Modelo: MiniLM | Estratégia: Recursiva,13,inf
+minilm_recursive,Modelo: MiniLM | Estratégia: Recursiva,14,inf
+minilm_recursive,Modelo: MiniLM | Estratégia: Recursiva,15,1.0
+minilm_recursive,Modelo: MiniLM | Estratégia: Recursiva,16,inf
+minilm_recursive,Modelo: MiniLM | Estratégia: Recursiva,17,inf
+minilm_recursive,Modelo: MiniLM | Estratégia: Recursiva,18,1.0
+minilm_recursive,Modelo: MiniLM | Estratégia: Recursiva,19,3.0
+minilm_recursive,Modelo: MiniLM | Estratégia: Recursiva,20,1.0
+minilm_recursive,Modelo: MiniLM | Estratégia: Recursiva,21,inf
+minilm_recursive,Modelo: MiniLM | Estratégia: Recursiva,22,1.0
+minilm_recursive,Modelo: MiniLM | Estratégia: Recursiva,23,1.0
+minilm_recursive,Modelo: MiniLM | Estratégia: Recursiva,24,inf
+minilm_recursive,Modelo: MiniLM | Estratégia: Recursiva,25,inf
+minilm_recursive,Modelo: MiniLM | Estratégia: Recursiva,26,9.0
+minilm_recursive,Modelo: MiniLM | Estratégia: Recursiva,27,inf
+minilm_recursive,Modelo: MiniLM | Estratégia: Recursiva,28,inf
+minilm_recursive,Modelo: MiniLM | Estratégia: Recursiva,29,1.0
+minilm_recursive,Modelo: MiniLM | Estratégia: Recursiva,30,inf
+minilm_recursive,Modelo: MiniLM | Estratégia: Recursiva,31,9.0
+minilm_recursive,Modelo: MiniLM | Estratégia: Recursiva,32,inf
+minilm_recursive,Modelo: MiniLM | Estratégia: Recursiva,33,1.0
+minilm_recursive,Modelo: MiniLM | Estratégia: Recursiva,34,inf
+minilm_recursive,Modelo: MiniLM | Estratégia: Recursiva,35,inf
+minilm_recursive,Modelo: MiniLM | Estratégia: Recursiva,36,inf
+minilm_recursive,Modelo: MiniLM | Estratégia: Recursiva,37,5.0
+minilm_recursive,Modelo: MiniLM | Estratégia: Recursiva,38,inf
+minilm_recursive,Modelo: MiniLM | Estratégia: Recursiva,39,inf
+minilm_recursive,Modelo: MiniLM | Estratégia: Recursiva,40,inf
+minilm_recursive,Modelo: MiniLM | Estratégia: Recursiva,41,inf
+minilm_recursive,Modelo: MiniLM | Estratégia: Recursiva,42,inf
+minilm_recursive,Modelo: MiniLM | Estratégia: Recursiva,43,inf
+minilm_recursive,Modelo: MiniLM | Estratégia: Recursiva,44,inf
+minilm_recursive,Modelo: MiniLM | Estratégia: Recursiva,45,inf
+minilm_recursive,Modelo: MiniLM | Estratégia: Recursiva,46,inf
+minilm_recursive,Modelo: MiniLM | Estratégia: Recursiva,47,8.0
+minilm_recursive,Modelo: MiniLM | Estratégia: Recursiva,48,inf
+minilm_recursive,Modelo: MiniLM | Estratégia: Recursiva,49,1.0
+minilm_recursive,Modelo: MiniLM | Estratégia: Recursiva,50,inf
+minilm_recursive,Modelo: MiniLM | Estratégia: Recursiva,51,2.0
+minilm_recursive,Modelo: MiniLM | Estratégia: Recursiva,52,inf
+minilm_recursive,Modelo: MiniLM | Estratégia: Recursiva,53,inf
+minilm_recursive,Modelo: MiniLM | Estratégia: Recursiva,54,2.0
+minilm_recursive,Modelo: MiniLM | Estratégia: Recursiva,55,2.0
+minilm_recursive,Modelo: MiniLM | Estratégia: Recursiva,56,inf
+minilm_recursive,Modelo: MiniLM | Estratégia: Recursiva,57,inf
+minilm_recursive,Modelo: MiniLM | Estratégia: Recursiva,58,inf
+minilm_recursive,Modelo: MiniLM | Estratégia: Recursiva,59,inf
+minilm_recursive,Modelo: MiniLM | Estratégia: Recursiva,60,inf
+minilm_recursive,Modelo: MiniLM | Estratégia: Recursiva,61,4.0
+minilm_recursive,Modelo: MiniLM | Estratégia: Recursiva,62,inf
+minilm_recursive,Modelo: MiniLM | Estratégia: Recursiva,63,inf
+minilm_recursive,Modelo: MiniLM | Estratégia: Recursiva,64,inf
+minilm_recursive,Modelo: MiniLM | Estratégia: Recursiva,65,inf
+minilm_recursive,Modelo: MiniLM | Estratégia: Recursiva,66,inf
+minilm_recursive,Modelo: MiniLM | Estratégia: Recursiva,67,inf
+minilm_recursive,Modelo: MiniLM | Estratégia: Recursiva,68,inf
+minilm_recursive,Modelo: MiniLM | Estratégia: Recursiva,69,inf
+minilm_recursive,Modelo: MiniLM | Estratégia: Recursiva,70,inf
+minilm_recursive,Modelo: MiniLM | Estratégia: Recursiva,71,inf
+minilm_recursive,Modelo: MiniLM | Estratégia: Recursiva,72,2.0
+minilm_recursive,Modelo: MiniLM | Estratégia: Recursiva,73,inf
+minilm_recursive,Modelo: MiniLM | Estratégia: Recursiva,74,inf
+minilm_recursive,Modelo: MiniLM | Estratégia: Recursiva,75,inf
+minilm_recursive,Modelo: MiniLM | Estratégia: Recursiva,76,inf
+minilm_recursive,Modelo: MiniLM | Estratégia: Recursiva,77,inf
+minilm_recursive,Modelo: MiniLM | Estratégia: Recursiva,78,1.0
+minilm_recursive,Modelo: MiniLM | Estratégia: Recursiva,79,inf
+minilm_recursive,Modelo: MiniLM | Estratégia: Recursiva,80,inf
+minilm_recursive,Modelo: MiniLM | Estratégia: Recursiva,81,inf
+minilm_recursive,Modelo: MiniLM | Estratégia: Recursiva,82,inf
+minilm_recursive,Modelo: MiniLM | Estratégia: Recursiva,83,inf
+minilm_recursive,Modelo: MiniLM | Estratégia: Recursiva,84,inf
+minilm_recursive,Modelo: MiniLM | Estratégia: Recursiva,85,inf
+minilm_recursive,Modelo: MiniLM | Estratégia: Recursiva,86,4.0
+minilm_recursive,Modelo: MiniLM | Estratégia: Recursiva,87,inf
+minilm_recursive,Modelo: MiniLM | Estratégia: Recursiva,88,inf
+minilm_recursive,Modelo: MiniLM | Estratégia: Recursiva,89,inf
+minilm_recursive,Modelo: MiniLM | Estratégia: Recursiva,90,inf
+minilm_recursive,Modelo: MiniLM | Estratégia: Recursiva,91,inf
+minilm_recursive,Modelo: MiniLM | Estratégia: Recursiva,92,inf
+minilm_recursive,Modelo: MiniLM | Estratégia: Recursiva,93,inf
+minilm_recursive,Modelo: MiniLM | Estratégia: Recursiva,94,inf
+minilm_recursive,Modelo: MiniLM | Estratégia: Recursiva,95,inf
+minilm_recursive,Modelo: MiniLM | Estratégia: Recursiva,96,1.0
+minilm_recursive,Modelo: MiniLM | Estratégia: Recursiva,97,inf
+minilm_recursive,Modelo: MiniLM | Estratégia: Recursiva,98,inf
+minilm_recursive,Modelo: MiniLM | Estratégia: Recursiva,99,inf
+labse_fixed,Modelo: LaBSE | Estratégia: Tamanho Fixo,0,inf
+labse_fixed,Modelo: LaBSE | Estratégia: Tamanho Fixo,1,1.0
+labse_fixed,Modelo: LaBSE | Estratégia: Tamanho Fixo,2,inf
+labse_fixed,Modelo: LaBSE | Estratégia: Tamanho Fixo,3,inf
+labse_fixed,Modelo: LaBSE | Estratégia: Tamanho Fixo,4,inf
+labse_fixed,Modelo: LaBSE | Estratégia: Tamanho Fixo,5,inf
+labse_fixed,Modelo: LaBSE | Estratégia: Tamanho Fixo,6,1.0
+labse_fixed,Modelo: LaBSE | Estratégia: Tamanho Fixo,7,inf
+labse_fixed,Modelo: LaBSE | Estratégia: Tamanho Fixo,8,inf
+labse_fixed,Modelo: LaBSE | Estratégia: Tamanho Fixo,9,inf
+labse_fixed,Modelo: LaBSE | Estratégia: Tamanho Fixo,10,inf
+labse_fixed,Modelo: LaBSE | Estratégia: Tamanho Fixo,11,inf
+labse_fixed,Modelo: LaBSE | Estratégia: Tamanho Fixo,12,inf
+labse_fixed,Modelo: LaBSE | Estratégia: Tamanho Fixo,13,inf
+labse_fixed,Modelo: LaBSE | Estratégia: Tamanho Fixo,14,inf
+labse_fixed,Modelo: LaBSE | Estratégia: Tamanho Fixo,15,inf
+labse_fixed,Modelo: LaBSE | Estratégia: Tamanho Fixo,16,inf
+labse_fixed,Modelo: LaBSE | Estratégia: Tamanho Fixo,17,inf
+labse_fixed,Modelo: LaBSE | Estratégia: Tamanho Fixo,18,inf
+labse_fixed,Modelo: LaBSE | Estratégia: Tamanho Fixo,19,inf
+labse_fixed,Modelo: LaBSE | Estratégia: Tamanho Fixo,20,inf
+labse_fixed,Modelo: LaBSE | Estratégia: Tamanho Fixo,21,inf
+labse_fixed,Modelo: LaBSE | Estratégia: Tamanho Fixo,22,inf
+labse_fixed,Modelo: LaBSE | Estratégia: Tamanho Fixo,23,inf
+labse_fixed,Modelo: LaBSE | Estratégia: Tamanho Fixo,24,5.0
+labse_fixed,Modelo: LaBSE | Estratégia: Tamanho Fixo,25,1.0
+labse_fixed,Modelo: LaBSE | Estratégia: Tamanho Fixo,26,inf
+labse_fixed,Modelo: LaBSE | Estratégia: Tamanho Fixo,27,1.0
+labse_fixed,Modelo: LaBSE | Estratégia: Tamanho Fixo,28,inf
+labse_fixed,Modelo: LaBSE | Estratégia: Tamanho Fixo,29,inf
+labse_fixed,Modelo: LaBSE | Estratégia: Tamanho Fixo,30,inf
+labse_fixed,Modelo: LaBSE | Estratégia: Tamanho Fixo,31,inf
+labse_fixed,Modelo: LaBSE | Estratégia: Tamanho Fixo,32,inf
+labse_fixed,Modelo: LaBSE | Estratégia: Tamanho Fixo,33,1.0
+labse_fixed,Modelo: LaBSE | Estratégia: Tamanho Fixo,34,inf
+labse_fixed,Modelo: LaBSE | Estratégia: Tamanho Fixo,35,inf
+labse_fixed,Modelo: LaBSE | Estratégia: Tamanho Fixo,36,inf
+labse_fixed,Modelo: LaBSE | Estratégia: Tamanho Fixo,37,5.0
+labse_fixed,Modelo: LaBSE | Estratégia: Tamanho Fixo,38,inf
+labse_fixed,Modelo: LaBSE | Estratégia: Tamanho Fixo,39,inf
+labse_fixed,Modelo: LaBSE | Estratégia: Tamanho Fixo,40,1.0
+labse_fixed,Modelo: LaBSE | Estratégia: Tamanho Fixo,41,2.0
+labse_fixed,Modelo: LaBSE | Estratégia: Tamanho Fixo,42,inf
+labse_fixed,Modelo: LaBSE | Estratégia: Tamanho Fixo,43,1.0
+labse_fixed,Modelo: LaBSE | Estratégia: Tamanho Fixo,44,inf
+labse_fixed,Modelo: LaBSE | Estratégia: Tamanho Fixo,45,1.0
+labse_fixed,Modelo: LaBSE | Estratégia: Tamanho Fixo,46,inf
+labse_fixed,Modelo: LaBSE | Estratégia: Tamanho Fixo,47,inf
+labse_fixed,Modelo: LaBSE | Estratégia: Tamanho Fixo,48,1.0
+labse_fixed,Modelo: LaBSE | Estratégia: Tamanho Fixo,49,inf
+labse_fixed,Modelo: LaBSE | Estratégia: Tamanho Fixo,50,inf
+labse_fixed,Modelo: LaBSE | Estratégia: Tamanho Fixo,51,1.0
+labse_fixed,Modelo: LaBSE | Estratégia: Tamanho Fixo,52,1.0
+labse_fixed,Modelo: LaBSE | Estratégia: Tamanho Fixo,53,inf
+labse_fixed,Modelo: LaBSE | Estratégia: Tamanho Fixo,54,inf
+labse_fixed,Modelo: LaBSE | Estratégia: Tamanho Fixo,55,inf
+labse_fixed,Modelo: LaBSE | Estratégia: Tamanho Fixo,56,inf
+labse_fixed,Modelo: LaBSE | Estratégia: Tamanho Fixo,57,2.0
+labse_fixed,Modelo: LaBSE | Estratégia: Tamanho Fixo,58,7.0
+labse_fixed,Modelo: LaBSE | Estratégia: Tamanho Fixo,59,1.0
+labse_fixed,Modelo: LaBSE | Estratégia: Tamanho Fixo,60,inf
+labse_fixed,Modelo: LaBSE | Estratégia: Tamanho Fixo,61,6.0
+labse_fixed,Modelo: LaBSE | Estratégia: Tamanho Fixo,62,1.0
+labse_fixed,Modelo: LaBSE | Estratégia: Tamanho Fixo,63,inf
+labse_fixed,Modelo: LaBSE | Estratégia: Tamanho Fixo,64,1.0
+labse_fixed,Modelo: LaBSE | Estratégia: Tamanho Fixo,65,inf
+labse_fixed,Modelo: LaBSE | Estratégia: Tamanho Fixo,66,inf
+labse_fixed,Modelo: LaBSE | Estratégia: Tamanho Fixo,67,inf
+labse_fixed,Modelo: LaBSE | Estratégia: Tamanho Fixo,68,inf
+labse_fixed,Modelo: LaBSE | Estratégia: Tamanho Fixo,69,inf
+labse_fixed,Modelo: LaBSE | Estratégia: Tamanho Fixo,70,inf
+labse_fixed,Modelo: LaBSE | Estratégia: Tamanho Fixo,71,inf
+labse_fixed,Modelo: LaBSE | Estratégia: Tamanho Fixo,72,inf
+labse_fixed,Modelo: LaBSE | Estratégia: Tamanho Fixo,73,inf
+labse_fixed,Modelo: LaBSE | Estratégia: Tamanho Fixo,74,inf
+labse_fixed,Modelo: LaBSE | Estratégia: Tamanho Fixo,75,1.0
+labse_fixed,Modelo: LaBSE | Estratégia: Tamanho Fixo,76,9.0
+labse_fixed,Modelo: LaBSE | Estratégia: Tamanho Fixo,77,1.0
+labse_fixed,Modelo: LaBSE | Estratégia: Tamanho Fixo,78,1.0
+labse_fixed,Modelo: LaBSE | Estratégia: Tamanho Fixo,79,inf
+labse_fixed,Modelo: LaBSE | Estratégia: Tamanho Fixo,80,inf
+labse_fixed,Modelo: LaBSE | Estratégia: Tamanho Fixo,81,inf
+labse_fixed,Modelo: LaBSE | Estratégia: Tamanho Fixo,82,2.0
+labse_fixed,Modelo: LaBSE | Estratégia: Tamanho Fixo,83,1.0
+labse_fixed,Modelo: LaBSE | Estratégia: Tamanho Fixo,84,inf
+labse_fixed,Modelo: LaBSE | Estratégia: Tamanho Fixo,85,inf
+labse_fixed,Modelo: LaBSE | Estratégia: Tamanho Fixo,86,inf
+labse_fixed,Modelo: LaBSE | Estratégia: Tamanho Fixo,87,6.0
+labse_fixed,Modelo: LaBSE | Estratégia: Tamanho Fixo,88,inf
+labse_fixed,Modelo: LaBSE | Estratégia: Tamanho Fixo,89,inf
+labse_fixed,Modelo: LaBSE | Estratégia: Tamanho Fixo,90,1.0
+labse_fixed,Modelo: LaBSE | Estratégia: Tamanho Fixo,91,inf
+labse_fixed,Modelo: LaBSE | Estratégia: Tamanho Fixo,92,inf
+labse_fixed,Modelo: LaBSE | Estratégia: Tamanho Fixo,93,inf
+labse_fixed,Modelo: LaBSE | Estratégia: Tamanho Fixo,94,inf
+labse_fixed,Modelo: LaBSE | Estratégia: Tamanho Fixo,95,1.0
+labse_fixed,Modelo: LaBSE | Estratégia: Tamanho Fixo,96,4.0
+labse_fixed,Modelo: LaBSE | Estratégia: Tamanho Fixo,97,2.0
+labse_fixed,Modelo: LaBSE | Estratégia: Tamanho Fixo,98,1.0
+labse_fixed,Modelo: LaBSE | Estratégia: Tamanho Fixo,99,inf
+labse_structured,Modelo: LaBSE | Estratégia: Estruturada,0,1.0
+labse_structured,Modelo: LaBSE | Estratégia: Estruturada,1,1.0
+labse_structured,Modelo: LaBSE | Estratégia: Estruturada,2,1.0
+labse_structured,Modelo: LaBSE | Estratégia: Estruturada,3,inf
+labse_structured,Modelo: LaBSE | Estratégia: Estruturada,4,inf
+labse_structured,Modelo: LaBSE | Estratégia: Estruturada,5,inf
+labse_structured,Modelo: LaBSE | Estratégia: Estruturada,6,inf
+labse_structured,Modelo: LaBSE | Estratégia: Estruturada,7,1.0
+labse_structured,Modelo: LaBSE | Estratégia: Estruturada,8,2.0
+labse_structured,Modelo: LaBSE | Estratégia: Estruturada,9,1.0
+labse_structured,Modelo: LaBSE | Estratégia: Estruturada,10,10.0
+labse_structured,Modelo: LaBSE | Estratégia: Estruturada,11,1.0
+labse_structured,Modelo: LaBSE | Estratégia: Estruturada,12,1.0
+labse_structured,Modelo: LaBSE | Estratégia: Estruturada,13,1.0
+labse_structured,Modelo: LaBSE | Estratégia: Estruturada,14,inf
+labse_structured,Modelo: LaBSE | Estratégia: Estruturada,15,inf
+labse_structured,Modelo: LaBSE | Estratégia: Estruturada,16,1.0
+labse_structured,Modelo: LaBSE | Estratégia: Estruturada,17,2.0
+labse_structured,Modelo: LaBSE | Estratégia: Estruturada,18,1.0
+labse_structured,Modelo: LaBSE | Estratégia: Estruturada,19,4.0
+labse_structured,Modelo: LaBSE | Estratégia: Estruturada,20,3.0
+labse_structured,Modelo: LaBSE | Estratégia: Estruturada,21,5.0
+labse_structured,Modelo: LaBSE | Estratégia: Estruturada,22,inf
+labse_structured,Modelo: LaBSE | Estratégia: Estruturada,23,inf
+labse_structured,Modelo: LaBSE | Estratégia: Estruturada,24,inf
+labse_structured,Modelo: LaBSE | Estratégia: Estruturada,25,2.0
+labse_structured,Modelo: LaBSE | Estratégia: Estruturada,26,1.0
+labse_structured,Modelo: LaBSE | Estratégia: Estruturada,27,3.0
+labse_structured,Modelo: LaBSE | Estratégia: Estruturada,28,inf
+labse_structured,Modelo: LaBSE | Estratégia: Estruturada,29,1.0
+labse_structured,Modelo: LaBSE | Estratégia: Estruturada,30,1.0
+labse_structured,Modelo: LaBSE | Estratégia: Estruturada,31,1.0
+labse_structured,Modelo: LaBSE | Estratégia: Estruturada,32,inf
+labse_structured,Modelo: LaBSE | Estratégia: Estruturada,33,inf
+labse_structured,Modelo: LaBSE | Estratégia: Estruturada,34,1.0
+labse_structured,Modelo: LaBSE | Estratégia: Estruturada,35,1.0
+labse_structured,Modelo: LaBSE | Estratégia: Estruturada,36,2.0
+labse_structured,Modelo: LaBSE | Estratégia: Estruturada,37,7.0
+labse_structured,Modelo: LaBSE | Estratégia: Estruturada,38,3.0
+labse_structured,Modelo: LaBSE | Estratégia: Estruturada,39,1.0
+labse_structured,Modelo: LaBSE | Estratégia: Estruturada,40,1.0
+labse_structured,Modelo: LaBSE | Estratégia: Estruturada,41,inf
+labse_structured,Modelo: LaBSE | Estratégia: Estruturada,42,inf
+labse_structured,Modelo: LaBSE | Estratégia: Estruturada,43,1.0
+labse_structured,Modelo: LaBSE | Estratégia: Estruturada,44,1.0
+labse_structured,Modelo: LaBSE | Estratégia: Estruturada,45,inf
+labse_structured,Modelo: LaBSE | Estratégia: Estruturada,46,2.0
+labse_structured,Modelo: LaBSE | Estratégia: Estruturada,47,1.0
+labse_structured,Modelo: LaBSE | Estratégia: Estruturada,48,1.0
+labse_structured,Modelo: LaBSE | Estratégia: Estruturada,49,8.0
+labse_structured,Modelo: LaBSE | Estratégia: Estruturada,50,inf
+labse_structured,Modelo: LaBSE | Estratégia: Estruturada,51,1.0
+labse_structured,Modelo: LaBSE | Estratégia: Estruturada,52,inf
+labse_structured,Modelo: LaBSE | Estratégia: Estruturada,53,inf
+labse_structured,Modelo: LaBSE | Estratégia: Estruturada,54,inf
+labse_structured,Modelo: LaBSE | Estratégia: Estruturada,55,inf
+labse_structured,Modelo: LaBSE | Estratégia: Estruturada,56,2.0
+labse_structured,Modelo: LaBSE | Estratégia: Estruturada,57,inf
+labse_structured,Modelo: LaBSE | Estratégia: Estruturada,58,1.0
+labse_structured,Modelo: LaBSE | Estratégia: Estruturada,59,4.0
+labse_structured,Modelo: LaBSE | Estratégia: Estruturada,60,3.0
+labse_structured,Modelo: LaBSE | Estratégia: Estruturada,61,inf
+labse_structured,Modelo: LaBSE | Estratégia: Estruturada,62,1.0
+labse_structured,Modelo: LaBSE | Estratégia: Estruturada,63,inf
+labse_structured,Modelo: LaBSE | Estratégia: Estruturada,64,1.0
+labse_structured,Modelo: LaBSE | Estratégia: Estruturada,65,inf
+labse_structured,Modelo: LaBSE | Estratégia: Estruturada,66,1.0
+labse_structured,Modelo: LaBSE | Estratégia: Estruturada,67,2.0
+labse_structured,Modelo: LaBSE | Estratégia: Estruturada,68,inf
+labse_structured,Modelo: LaBSE | Estratégia: Estruturada,69,inf
+labse_structured,Modelo: LaBSE | Estratégia: Estruturada,70,3.0
+labse_structured,Modelo: LaBSE | Estratégia: Estruturada,71,inf
+labse_structured,Modelo: LaBSE | Estratégia: Estruturada,72,inf
+labse_structured,Modelo: LaBSE | Estratégia: Estruturada,73,1.0
+labse_structured,Modelo: LaBSE | Estratégia: Estruturada,74,2.0
+labse_structured,Modelo: LaBSE | Estratégia: Estruturada,75,inf
+labse_structured,Modelo: LaBSE | Estratégia: Estruturada,76,inf
+labse_structured,Modelo: LaBSE | Estratégia: Estruturada,77,inf
+labse_structured,Modelo: LaBSE | Estratégia: Estruturada,78,inf
+labse_structured,Modelo: LaBSE | Estratégia: Estruturada,79,1.0
+labse_structured,Modelo: LaBSE | Estratégia: Estruturada,80,7.0
+labse_structured,Modelo: LaBSE | Estratégia: Estruturada,81,inf
+labse_structured,Modelo: LaBSE | Estratégia: Estruturada,82,2.0
+labse_structured,Modelo: LaBSE | Estratégia: Estruturada,83,inf
+labse_structured,Modelo: LaBSE | Estratégia: Estruturada,84,1.0
+labse_structured,Modelo: LaBSE | Estratégia: Estruturada,85,3.0
+labse_structured,Modelo: LaBSE | Estratégia: Estruturada,86,3.0
+labse_structured,Modelo: LaBSE | Estratégia: Estruturada,87,1.0
+labse_structured,Modelo: LaBSE | Estratégia: Estruturada,88,4.0
+labse_structured,Modelo: LaBSE | Estratégia: Estruturada,89,1.0
+labse_structured,Modelo: LaBSE | Estratégia: Estruturada,90,4.0
+labse_structured,Modelo: LaBSE | Estratégia: Estruturada,91,1.0
+labse_structured,Modelo: LaBSE | Estratégia: Estruturada,92,inf
+labse_structured,Modelo: LaBSE | Estratégia: Estruturada,93,1.0
+labse_structured,Modelo: LaBSE | Estratégia: Estruturada,94,1.0
+labse_structured,Modelo: LaBSE | Estratégia: Estruturada,95,inf
+labse_structured,Modelo: LaBSE | Estratégia: Estruturada,96,1.0
+labse_structured,Modelo: LaBSE | Estratégia: Estruturada,97,4.0
+labse_structured,Modelo: LaBSE | Estratégia: Estruturada,98,7.0
+labse_structured,Modelo: LaBSE | Estratégia: Estruturada,99,1.0
+labse_recursive,Modelo: LaBSE | Estratégia: Recursiva,0,5.0
+labse_recursive,Modelo: LaBSE | Estratégia: Recursiva,1,inf
+labse_recursive,Modelo: LaBSE | Estratégia: Recursiva,2,inf
+labse_recursive,Modelo: LaBSE | Estratégia: Recursiva,3,inf
+labse_recursive,Modelo: LaBSE | Estratégia: Recursiva,4,inf
+labse_recursive,Modelo: LaBSE | Estratégia: Recursiva,5,inf
+labse_recursive,Modelo: LaBSE | Estratégia: Recursiva,6,1.0
+labse_recursive,Modelo: LaBSE | Estratégia: Recursiva,7,1.0
+labse_recursive,Modelo: LaBSE | Estratégia: Recursiva,8,8.0
+labse_recursive,Modelo: LaBSE | Estratégia: Recursiva,9,1.0
+labse_recursive,Modelo: LaBSE | Estratégia: Recursiva,10,1.0
+labse_recursive,Modelo: LaBSE | Estratégia: Recursiva,11,inf
+labse_recursive,Modelo: LaBSE | Estratégia: Recursiva,12,inf
+labse_recursive,Modelo: LaBSE | Estratégia: Recursiva,13,inf
+labse_recursive,Modelo: LaBSE | Estratégia: Recursiva,14,inf
+labse_recursive,Modelo: LaBSE | Estratégia: Recursiva,15,2.0
+labse_recursive,Modelo: LaBSE | Estratégia: Recursiva,16,2.0
+labse_recursive,Modelo: LaBSE | Estratégia: Recursiva,17,1.0
+labse_recursive,Modelo: LaBSE | Estratégia: Recursiva,18,inf
+labse_recursive,Modelo: LaBSE | Estratégia: Recursiva,19,inf
+labse_recursive,Modelo: LaBSE | Estratégia: Recursiva,20,inf
+labse_recursive,Modelo: LaBSE | Estratégia: Recursiva,21,10.0
+labse_recursive,Modelo: LaBSE | Estratégia: Recursiva,22,1.0
+labse_recursive,Modelo: LaBSE | Estratégia: Recursiva,23,inf
+labse_recursive,Modelo: LaBSE | Estratégia: Recursiva,24,inf
+labse_recursive,Modelo: LaBSE | Estratégia: Recursiva,25,inf
+labse_recursive,Modelo: LaBSE | Estratégia: Recursiva,26,6.0
+labse_recursive,Modelo: LaBSE | Estratégia: Recursiva,27,1.0
+labse_recursive,Modelo: LaBSE | Estratégia: Recursiva,28,inf
+labse_recursive,Modelo: LaBSE | Estratégia: Recursiva,29,inf
+labse_recursive,Modelo: LaBSE | Estratégia: Recursiva,30,inf
+labse_recursive,Modelo: LaBSE | Estratégia: Recursiva,31,1.0
+labse_recursive,Modelo: LaBSE | Estratégia: Recursiva,32,1.0
+labse_recursive,Modelo: LaBSE | Estratégia: Recursiva,33,1.0
+labse_recursive,Modelo: LaBSE | Estratégia: Recursiva,34,inf
+labse_recursive,Modelo: LaBSE | Estratégia: Recursiva,35,inf
+labse_recursive,Modelo: LaBSE | Estratégia: Recursiva,36,inf
+labse_recursive,Modelo: LaBSE | Estratégia: Recursiva,37,3.0
+labse_recursive,Modelo: LaBSE | Estratégia: Recursiva,38,inf
+labse_recursive,Modelo: LaBSE | Estratégia: Recursiva,39,inf
+labse_recursive,Modelo: LaBSE | Estratégia: Recursiva,40,inf
+labse_recursive,Modelo: LaBSE | Estratégia: Recursiva,41,inf
+labse_recursive,Modelo: LaBSE | Estratégia: Recursiva,42,inf
+labse_recursive,Modelo: LaBSE | Estratégia: Recursiva,43,inf
+labse_recursive,Modelo: LaBSE | Estratégia: Recursiva,44,inf
+labse_recursive,Modelo: LaBSE | Estratégia: Recursiva,45,inf
+labse_recursive,Modelo: LaBSE | Estratégia: Recursiva,46,inf
+labse_recursive,Modelo: LaBSE | Estratégia: Recursiva,47,inf
+labse_recursive,Modelo: LaBSE | Estratégia: Recursiva,48,2.0
+labse_recursive,Modelo: LaBSE | Estratégia: Recursiva,49,inf
+labse_recursive,Modelo: LaBSE | Estratégia: Recursiva,50,inf
+labse_recursive,Modelo: LaBSE | Estratégia: Recursiva,51,inf
+labse_recursive,Modelo: LaBSE | Estratégia: Recursiva,52,inf
+labse_recursive,Modelo: LaBSE | Estratégia: Recursiva,53,inf
+labse_recursive,Modelo: LaBSE | Estratégia: Recursiva,54,1.0
+labse_recursive,Modelo: LaBSE | Estratégia: Recursiva,55,1.0
+labse_recursive,Modelo: LaBSE | Estratégia: Recursiva,56,1.0
+labse_recursive,Modelo: LaBSE | Estratégia: Recursiva,57,inf
+labse_recursive,Modelo: LaBSE | Estratégia: Recursiva,58,inf
+labse_recursive,Modelo: LaBSE | Estratégia: Recursiva,59,inf
+labse_recursive,Modelo: LaBSE | Estratégia: Recursiva,60,inf
+labse_recursive,Modelo: LaBSE | Estratégia: Recursiva,61,inf
+labse_recursive,Modelo: LaBSE | Estratégia: Recursiva,62,inf
+labse_recursive,Modelo: LaBSE | Estratégia: Recursiva,63,inf
+labse_recursive,Modelo: LaBSE | Estratégia: Recursiva,64,3.0
+labse_recursive,Modelo: LaBSE | Estratégia: Recursiva,65,inf
+labse_recursive,Modelo: LaBSE | Estratégia: Recursiva,66,inf
+labse_recursive,Modelo: LaBSE | Estratégia: Recursiva,67,inf
+labse_recursive,Modelo: LaBSE | Estratégia: Recursiva,68,inf
+labse_recursive,Modelo: LaBSE | Estratégia: Recursiva,69,inf
+labse_recursive,Modelo: LaBSE | Estratégia: Recursiva,70,inf
+labse_recursive,Modelo: LaBSE | Estratégia: Recursiva,71,inf
+labse_recursive,Modelo: LaBSE | Estratégia: Recursiva,72,1.0
+labse_recursive,Modelo: LaBSE | Estratégia: Recursiva,73,inf
+labse_recursive,Modelo: LaBSE | Estratégia: Recursiva,74,inf
+labse_recursive,Modelo: LaBSE | Estratégia: Recursiva,75,inf
+labse_recursive,Modelo: LaBSE | Estratégia: Recursiva,76,inf
+labse_recursive,Modelo: LaBSE | Estratégia: Recursiva,77,inf
+labse_recursive,Modelo: LaBSE | Estratégia: Recursiva,78,inf
+labse_recursive,Modelo: LaBSE | Estratégia: Recursiva,79,inf
+labse_recursive,Modelo: LaBSE | Estratégia: Recursiva,80,inf
+labse_recursive,Modelo: LaBSE | Estratégia: Recursiva,81,inf
+labse_recursive,Modelo: LaBSE | Estratégia: Recursiva,82,inf
+labse_recursive,Modelo: LaBSE | Estratégia: Recursiva,83,inf
+labse_recursive,Modelo: LaBSE | Estratégia: Recursiva,84,inf
+labse_recursive,Modelo: LaBSE | Estratégia: Recursiva,85,inf
+labse_recursive,Modelo: LaBSE | Estratégia: Recursiva,86,1.0
+labse_recursive,Modelo: LaBSE | Estratégia: Recursiva,87,inf
+labse_recursive,Modelo: LaBSE | Estratégia: Recursiva,88,inf
+labse_recursive,Modelo: LaBSE | Estratégia: Recursiva,89,inf
+labse_recursive,Modelo: LaBSE | Estratégia: Recursiva,90,inf
+labse_recursive,Modelo: LaBSE | Estratégia: Recursiva,91,inf
+labse_recursive,Modelo: LaBSE | Estratégia: Recursiva,92,2.0
+labse_recursive,Modelo: LaBSE | Estratégia: Recursiva,93,3.0
+labse_recursive,Modelo: LaBSE | Estratégia: Recursiva,94,inf
+labse_recursive,Modelo: LaBSE | Estratégia: Recursiva,95,inf
+labse_recursive,Modelo: LaBSE | Estratégia: Recursiva,96,1.0
+labse_recursive,Modelo: LaBSE | Estratégia: Recursiva,97,1.0
+labse_recursive,Modelo: LaBSE | Estratégia: Recursiva,98,inf
+labse_recursive,Modelo: LaBSE | Estratégia: Recursiva,99,inf

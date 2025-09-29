@@ -19,21 +19,21 @@ N8N_ENDPOINT_URL = "http://157.173.125.173:5678/webhook/345e055f-c1f5-495f-aa45-
 # Cada dicionário contém a tabela de origem e a tabela de destino para o silver set
 TABLES_TO_PROCESS = [
     {
-        "source": "normativos_cnj_minilm_structured",
-        "output": "silver_set_minilm_structured"
+        "source": "normativos_cnj_minilm_recursive",
+        "output": "silver_set_recursive"
     },
-    {
-        "source": "normativos_cnj_minilm_fixed",
-        "output": "silver_set_minilm_fixed"
-    },
-    {
-        "source": "normativos_cnj_labse_structured",
-        "output": "silver_set_labse_structured"
-    },
-    {
-        "source": "normativos_cnj_labse_fixed",
-        "output": "silver_set_labse_fixed"
-    }
+    #{
+    #    "source": "normativos_cnj_minilm_fixed",
+    #    "output": "silver_set_minilm_fixed"
+    #},
+    #{
+    #    "source": "normativos_cnj_labse_structured",
+    #    "output": "silver_set_labse_structured"
+    #},
+    #{
+    #    "source": "normativos_cnj_labse_fixed",
+    #    "output": "silver_set_labse_fixed"
+    #}
 ]
 
 # Quantidade de textos para processar POR TABELA

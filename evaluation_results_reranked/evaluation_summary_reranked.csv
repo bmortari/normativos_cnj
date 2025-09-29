@@ -1,0 +1,10 @@
+Configuração,Total Perguntas,Erros,Hit@1,Hit@10,MRR,Precision@10,Recall@10,F1-Score@10
+Retriever: bge-m3 Estruturado + Re-ranker,100,32,0.3676,0.6765,0.4546,0.0676,0.6765,0.1230
+Retriever: bge-m3 Fixo + Re-ranker,100,0,0.4500,0.6500,0.5269,0.0650,0.6500,0.1182
+Retriever: LaBSE Estruturado + Re-ranker,100,2,0.4082,0.6224,0.4782,0.0622,0.6224,0.1132
+Retriever: bge-m3 Recursivo + Re-ranker,100,0,0.3100,0.3900,0.3330,0.0390,0.3900,0.0709
+Retriever: LaBSE Fixo + Re-ranker,100,0,0.2800,0.3200,0.2983,0.0320,0.3200,0.0582
+Retriever: LaBSE Recursivo + Re-ranker,100,0,0.2200,0.2900,0.2386,0.0290,0.2900,0.0527
+Retriever: MiniLM Estruturado + Re-ranker,100,2,0.1939,0.2857,0.2347,0.0286,0.2857,0.0519
+Retriever: MiniLM Recursivo + Re-ranker,100,0,0.2100,0.2300,0.2164,0.0230,0.2300,0.0418
+Retriever: MiniLM Fixo + Re-ranker,100,0,0.1800,0.2000,0.1900,0.0200,0.2000,0.0364
